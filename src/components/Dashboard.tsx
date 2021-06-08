@@ -1,7 +1,7 @@
 import React from 'react';
 import Box from '@material-ui/core/Box';
 import { makeStyles } from '@material-ui/core/styles';
-import TelemetrySelect from './TelemetrySelect/TelemetrySelect';
+import TelemetrySelect from '../Features/TelemetrySelect/TelemetrySelect';
 import TelemetryCard from './TelemetryCard/TelemetryCard';
 import TelemetryChart from './TelemetryChart/TelemetryChart';
 
